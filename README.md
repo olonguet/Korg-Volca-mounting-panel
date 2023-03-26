@@ -1,6 +1,8 @@
 # Korg-Volca-mounting-panel
 A panel to mount your korg volca to a Eurorack setup
 
+Presentation video : https://www.youtube.com/watch?v=06OwAAx8zTo
+
 ![1](https://user-images.githubusercontent.com/42693458/227810402-1fef1d55-4f54-4f62-932f-9183f26053fd.jpg)
 
 The panel takes 12v power from Eurorack socket and converts to 9v for the Korg Volca. 
